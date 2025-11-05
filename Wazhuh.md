@@ -18,6 +18,10 @@ Wazuh can be used to monitor endpoints, cloud services and containers, and to ag
  - Cloud Security Monitoring
  - Containers Security
 
+##### Hardware Requirements 
+ Wazuh All-in-One VM Hardware Recommendations (Ubuntu 24.04) 
+ Small Lab requirements: 4 vCPU, 8 GB RAM, 100–200 GB SSD
+
 ##### Instalation
 This is a working deployment (container deployment failed, broken installation for docker)
 
