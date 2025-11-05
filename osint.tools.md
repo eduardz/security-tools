@@ -21,4 +21,5 @@
 | Wigle                    | Database / mapping of discovered Wi-Fi networks (wardriving).                                                             | [https://wigle.net/](https://wigle.net/)                                                                                                                                                   |
 | crt.sh                   | Certificate transparency / subdomain discovery via CT logs.                                                               | [https://crt.sh/](https://crt.sh/)                                                                                                                                                         |
 | exploit-db               | Exploit Database                                                                                                          | https://www.exploit-db.com/                                                                                                                                                        |
-                                                                                                                                                                 |
+
+| ThreatYeti | Check a link for malware or phishing and get a full security analysis. | https://www.threatyeti.com/ |
