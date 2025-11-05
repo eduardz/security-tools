@@ -1,5 +1,5 @@
-| Tool / Resource | Description | Link ( update 2025 ) |
-| | | |
+| Tool / Resource | Description | Link ( update 2025 )|
+|---|---|---|
 | Google dorking | Advanced Google search operators for discovery (filetype:, ext:, intitle:, inurl:, quotes, etc.). | (use Google search operators; no single link)   
 | urlscan.io | Scan and analyze URLs / web snapshots. | [https://urlscan.io/](https://urlscan.io/) |
 | CentralOps Network Tools | Collection of network lookups and diagnostics. | [https://centralops.net/co/](https://centralops.net/co/) |
