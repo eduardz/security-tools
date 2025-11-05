@@ -1,8 +1,0 @@
-#### Instalation
-This is a working deployment ( since the other method container deployment failed )
-
-The oficial installation install script 
-Tested on Ubuntu 2024.04 LTS
-```bash
-curl -sO https://packages.wazuh.com/4.9/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -o
-```
