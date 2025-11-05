@@ -1,4 +1,5 @@
 |Tool|Category|Description|Example|
+|---|---|---|
 |whois|Recon|Domain registration lookup|whois example.com|
 |dig|Recon|DNS queries and records lookup|dig +short example.com|
 |amass|Recon|DNS/subdomain enumeration and mapping|amass enum -d example.com|
