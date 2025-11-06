@@ -13,7 +13,7 @@
 | Whois tools | Domain registration & DNS lookups. | [https://whois.com/whois](https://whois.com/whois)<br>[https://dnsdumpster.com/](https://dnsdumpster.com/)<br>[https://www.iplocation.net/ip-lookup](https://www.iplocation.net/ip-lookup) |
 | CVE List (MITRE) | Canonical CVE vulnerability listings. | [https://cve.mitre.org/cve/](https://cve.mitre.org/cve/) |
 | Shodan | Internet-connected device search engine. Alternative: FOFA. | [https://www.shodan.io/](https://www.shodan.io/) <br>Alternative: [http://fofa.info](http://fofa.info) |
-| I Been Pwned | Check if an email/account has been involved in a data breach. | [https://haveibeenpwned.com/](https://haveibeenpwned.com/) <br> Alternative: [https://leakchecker.uni-bonn.de](ttps://leakchecker.uni-bonn.de/en/index) <br> |
+| I Been Pwned | Check if an email/account has been involved in a data breach. | [https://haveibeenpwned.com/](https://haveibeenpwned.com/) <br> Alternative: [https://leakchecker.uni-bonn.de](https://leakchecker.uni-bonn.de/en/index) <br> |
 | AlienVault OTX | Community threat intel & pulse sharing (OTX). | [https://otx.alienvault.com/](https://otx.alienvault.com/) |
 | Censys | Internet-wide device and host scanning/search. | [https://censys.io/](https://censys.io/) |
 | haveibeensquatted | Check for typosquatting (typosquatting = registering domains similar to legit sites to exploit typos) | [https://haveibeensquatted.com/](https://haveibeensquatted.com/) |
